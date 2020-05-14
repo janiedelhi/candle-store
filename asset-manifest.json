@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/candle-store/static/css/main.60422efd.chunk.css",
+    "main.js": "/candle-store/static/js/main.5609626b.chunk.js",
+    "main.js.map": "/candle-store/static/js/main.5609626b.chunk.js.map",
+    "runtime-main.js": "/candle-store/static/js/runtime-main.3651b1ab.js",
+    "runtime-main.js.map": "/candle-store/static/js/runtime-main.3651b1ab.js.map",
+    "static/js/2.e3d96475.chunk.js": "/candle-store/static/js/2.e3d96475.chunk.js",
+    "static/js/2.e3d96475.chunk.js.map": "/candle-store/static/js/2.e3d96475.chunk.js.map",
+    "index.html": "/candle-store/index.html",
+    "precache-manifest.ddbe741c8b06510b400960417d49a5c2.js": "/candle-store/precache-manifest.ddbe741c8b06510b400960417d49a5c2.js",
+    "service-worker.js": "/candle-store/service-worker.js",
+    "static/css/main.60422efd.chunk.css.map": "/candle-store/static/css/main.60422efd.chunk.css.map",
+    "static/js/2.e3d96475.chunk.js.LICENSE": "/candle-store/static/js/2.e3d96475.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3651b1ab.js",
+    "static/js/2.e3d96475.chunk.js",
+    "static/css/main.60422efd.chunk.css",
+    "static/js/main.5609626b.chunk.js"
+  ]
+}
