@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.title{
+  font-family: 'Prata', serif;
+  font-size: 72px;
+  color: rgb(117, 35, 67);
+}

@@ -1,8 +1,8 @@
 .card-container {
     display: flex;
     flex-direction: column;
-    background-color: #95dada;
-    border: 1px solid grey;
+    background-color: #ffffff;
+    border: 1px double grey;
     border-radius: 5px;
     padding: 25px;
     cursor: pointer;
@@ -14,5 +14,11 @@
   
   .card-container:hover {
     transform: scale(1.05);
+  }
+
+  .price {
+    color: #3b2a39;
+    font-size: 1.5em;
+    font-family: 'Domine', serif;
   }
   
